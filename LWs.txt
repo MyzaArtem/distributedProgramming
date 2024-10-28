@@ -1,0 +1,14 @@
+LW1
+https://github.com/vkuzn/ds-2024/tree/pa1
+LW2
+https://github.com/vkuzn/ds-2024/tree/pa2
+LW3
+https://github.com/vkuzn/ds-2024/tree/pa3
+LW4
+https://github.com/vkuzn/ds-2024/tree/pa4
+LW5
+https://github.com/vkuzn/ds-2024/tree/pa5
+LW6
+https://github.com/vkuzn/ds-2024/tree/pa6
+LW7
+https://github.com/vkuzn/ds-2024/tree/pa7
